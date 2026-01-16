@@ -59,4 +59,4 @@ _End-to-end data analysis project using Python & SQL_
 ### 📫 Connect With Me
 - 📧 Email: rawattanvi7@gmail.com  
 - 🔗 GitHub: https://github.com/rawattanvi7-eng  
-- 🔗 LinkedIn: (add your LinkedIn profile link)
+- 🔗 LinkedIn: https://www.linkedin.com/in/tanvi-rawat7/
