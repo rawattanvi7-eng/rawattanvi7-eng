@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am an aspiring Data Analyst with a strong foundation in data cleaning, analysis, and visualization.<br>I enjoy working with real-world datasets to extract meaningful insights and support data-driven decision-making.<br>Currently focusing on strengthening my skills in SQL, Python, and data visualization.
+Aspiring Data Scientist with a strong foundation in Python, SQL, Machine Learning, and Data Visualization.<br>
+Experienced in working with real-world datasets, performing data preprocessing, exploratory data analysis, and developing data-driven solutions.<br>
+Currently expanding my expertise through projects in Machine Learning, Business Analytics, and Dashboard Development.
 
 
 ## 🌐 Socials:
@@ -12,14 +14,11 @@ I am an aspiring Data Analyst with a strong foundation in data cleaning, analysi
 ![](https://nirzak-streak-stats.vercel.app/?user=rawattanvi7-eng&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rawattanvi7-eng&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rawattanvi7-eng&theme=nightowl&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rawattanvi7-eng&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rawattanvi7-eng&icon=0&color=0)](https://visitcount.itsvg.in)
